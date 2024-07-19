@@ -14,7 +14,6 @@ def calculateVowels(input):
                sum += 1
      return sum
     
-
 n = sys.argv
 if(len(n) == 1):
     print("You need to provide an String!")
